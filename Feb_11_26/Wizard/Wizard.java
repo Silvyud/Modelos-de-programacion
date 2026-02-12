@@ -1,3 +1,5 @@
+import Spell.Spell;
+
 public class Wizard {
     
     String name;

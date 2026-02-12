@@ -1,3 +1,5 @@
+package Spell;
+
 public class OculusReparo implements Spell {
 
     public void spell() {

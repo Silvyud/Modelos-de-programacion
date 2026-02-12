@@ -1,3 +1,5 @@
+package Spell;
+
 public class ExpectroPatronum implements Spell {
 
     public void spell() {

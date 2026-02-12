@@ -1,3 +1,5 @@
+package Spell;
+
 public class Expelliarmus implements Spell {
 
     public void spell() {
