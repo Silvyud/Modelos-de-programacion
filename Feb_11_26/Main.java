@@ -13,7 +13,7 @@ public class Main {
         Wizard HermioneGranger = new Wizard("Hermione Granger", new WingardumLeviosa());
         System.out.print("Hermione Granger: ");
         HermioneGranger.performSpell();
-        HermioneGranger.setSpell(new OculusReparum());
+        HermioneGranger.setSpell(new OculusReparo());
         System.out.print("Hermione Granger: Hey Harry ");
         HermioneGranger.performSpell();
         
